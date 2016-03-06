@@ -1,0 +1,46 @@
+{
+  "name": "es6-simple-starterkit",
+  "version": "0.0.1",
+  "description": "Simple to understand and use ES6 Starter Kit",
+  "author": "Dimitri Mikadze",
+  "scripts": {
+    "dev-server": "cd dist && lite-server",
+    "watch": "gulp watch",
+    "build": "gulp build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.6.5",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-htmlmin": "^1.3.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "lite-server": "^2.1.0",
+    "webpack": "^1.12.14",
+    "webpack-stream": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitrimikadze/es6-simple-starterkit"
+  },
+  "bugs": {
+    "url": "https://github.com/dimitrimikadze/es6-simple-starterkit/issues"
+  },
+  "keywords": [
+    "ES6",
+    "Javascript",
+    "Live Reaload Dev Server",
+    "Sass",
+    "Gulp",
+    "Webpack",
+    "Babel",
+    "Compress",
+    "Minify",
+    "Sourcemap"
+  ],
+  "license": "MIT"
+}
