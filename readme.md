@@ -16,7 +16,7 @@ Uncompiled/Development files are located in src folder, compiled in dist folder.
 Clone Repo
 
 ````
-https://github.com/DimitriMikadze/es6-simple-starterkit
+git clone https://github.com/DimitriMikadze/es6-simple-starterkit.git
 ````
 
 npm install dev dependencies
