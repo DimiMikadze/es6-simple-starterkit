@@ -8,7 +8,7 @@ const htmlmin = require('gulp-htmlmin');
 const webpackConfig = require("./webpack.config.js");
 
 // Html
-gulp.task('html', function () {
+gulp.task('html', () => {
     gulp.src('./src/**/*.html')
         .pipe(gulp.dest('./dist/'));
 });
